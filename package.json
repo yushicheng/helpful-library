@@ -1,0 +1,16 @@
+{
+  "name": "helpful-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  	"dev":"gitbook serve",
+    "build": "gitbook build src docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
