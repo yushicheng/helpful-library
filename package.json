@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  	"dev":"gitbook serve",
+    "dev": "gitbook serve",
     "build": "gitbook build src docs"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "gitbook-cli": "^2.3.2"
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-summary": "^1.1.0"
   }
 }

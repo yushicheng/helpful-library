@@ -1,3 +1,6 @@
 module.exports={
-  root:"./src"
+  root:"./src",
+  plugins: [
+    "summary"
+  ]
 }
